@@ -2,70 +2,116 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82accc61-f478-4238-bf8a-9f4a5d525f30" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Homework #2. Arrays/.idea/Homework #2. Arrays..iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #2. Arrays/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #2. Arrays/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #2. Arrays/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #2. Arrays/Answer Sheet#1.Arrays.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #2. Arrays/Arrays-task1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #3/Homework #3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #3/Tamagochi-game/Tamagochi-game-script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #3/Tamagochi-game/Tamagochi-game.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #3/Tamagochi-game/Tamagochi-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #3/Tamagochi-game/img/dead.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #3/Tamagochi-game/img/green.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #3/Tamagochi-game/img/grey.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #3/Tamagochi-game/img/happy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #3/Tamagochi-game/img/red.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #3/Tamagochi-game/img/yellow.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4 - Slick Slider/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4 - Slick Slider/js/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4 - Slick Slider/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4-another try/Infinite Carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4-another try/Infinite Carousel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4-another try/Infinite Carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4-another try/img/computer-2982270_1920.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4-another try/img/fiber-4814456_1920.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4-another try/img/glasses-5486967_1920.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4-another try/img/left-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4-another try/img/right-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4-another try/img/slide-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4-another try/img/slide-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4-another try/img/slide-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4-another try/img/slide-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2/Carousel2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2/Carousel2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2/Carousel2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2/img/left-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2/img/right-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2/img/slide-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2/img/slide-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2/img/slide-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2/img/slide-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2/img/slide-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4/Matrix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4/MyPromise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4/img/computer-2982270_1920.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4/img/glasses-5486967_1920.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4/img/left-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4/img/right-arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4/img/slide-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4/img/slide-2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4/img/slide-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4/img/slide-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #4/img/slide-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #5/Task1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #5/Task2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #6/functions implementation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #6/tagging.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #6/tagging.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Homework #6/tagging.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework #10/api-requests-react/src/app/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework #10/api-requests-react/src/app/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework #12/react-redux-thunk-api/src/app/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Todo/Todo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Todo/components/Form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Todo/components/Form.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Todo/components/List.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Todo/components/ListItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework #8/react-todo-list-hooks/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #11/todo-react-redux/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework #11/todo-react-redux/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #11/todo-react-redux/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework #11/todo-react-redux/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #11/todo-react-redux/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework #11/todo-react-redux/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #11/todo-react-redux/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework #11/todo-react-redux/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #11/todo-react-redux/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework #11/todo-react-redux/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #11/todo-react-redux/src/actions/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #11/todo-react-redux/src/components/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #11/todo-react-redux/src/components/Item.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #11/todo-react-redux/src/components/ItemsList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #11/todo-react-redux/src/img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #11/todo-react-redux/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework #11/todo-react-redux/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #11/todo-react-redux/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework #11/todo-react-redux/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #11/todo-react-redux/src/reducers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #11/todo-react-redux/src/reducers/items.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #2. Arrays/Arrays-task1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework #2. Arrays/Arrays-task1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #3/Homework #3.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework #3/Homework #3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #3/Tamagochi-game/Tamagochi-game-script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework #3/Tamagochi-game/Tamagochi-game-script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #3/Tamagochi-game/Tamagochi-game.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #3/Tamagochi-game/Tamagochi-game.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework #3/Tamagochi-game/Tamagochi-game.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #3/Tamagochi-game/Tamagochi-game.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #3/Tamagochi-game/Tamagochi-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework #3/Tamagochi-game/Tamagochi-style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #3/Tamagochi-game/img/amarelo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #3/Tamagochi-game/img/azul.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #3/Tamagochi-game/img/cinza.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #3/Tamagochi-game/img/preto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #3/Tamagochi-game/img/verde.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #3/Tamagochi-game/img/vermelho.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #3/Tamagochi.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #3/Tamagochi.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #3/Tamagochi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #3/Tamagochi2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #3/Test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4 - 2/img/fiber-4814456_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4 - Slick Slider/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework #4 - Slick Slider/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4 - Slick Slider/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework #4 - Slick Slider/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4 - Slick Slider/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework #4 - Slick Slider/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4-another try/Infinite Carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4-another try/Infinite Carousel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4-another try/Infinite Carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4-another try/img/computer-2982270_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4-another try/img/fiber-4814456_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4-another try/img/glasses-5486967_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4-another try/img/left-arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4-another try/img/right-arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4-another try/img/slide-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4-another try/img/slide-2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4-another try/img/slide-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4-another try/img/slide-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2(drag and click)/Carousel2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2(drag and click)/Carousel2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2(drag and click)/Carousel2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2(drag and click)/img/Digital_Background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2(drag and click)/img/computer-2982270_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2(drag and click)/img/glasses-5486967_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2(drag and click)/img/left-arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2(drag and click)/img/right-arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2(drag and click)/img/slide-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2(drag and click)/img/slide-2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2(drag and click)/img/slide-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2(drag and click)/img/slide-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2(drag and click)/img/slide-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2/Carousel2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2/Carousel2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2/Carousel2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2/img/left-arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2/img/right-arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2/img/slide-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2/img/slide-2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2/img/slide-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2/img/slide-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel - 2/img/slide-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework #4/InfiniteCarousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/Matrix.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework #4/Matrix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/MyPromise.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework #4/MyPromise.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/Pl3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/desktop-3820634_1280.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/img/PIXNIO-207192-4469x2980.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/img/background-5060836_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/img/building-1853330_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #4/img/computer-4795762_1920.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #5/Task1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework #5/Task1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #5/Task2.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework #5/Task2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #6/functions implementation.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework #6/functions implementation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #6/tagging.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework #6/tagging.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #6/tagging.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework #6/tagging.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework #6/tagging.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework #6/tagging.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListItems.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListItems.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project1.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Project1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +129,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1n54bflPOkL5IAjlKKmZkoQQ3k8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -93,14 +147,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/package.json" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Console" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app" />
+    </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -119,7 +179,7 @@
       <command value="npm run deploy" />
     </option>
   </component>
-  <component name="RunManager" selected="npm.deploy">
+  <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -170,7 +230,12 @@
       <workItem from="1610666691680" duration="3574000" />
       <workItem from="1610981155214" duration="10919000" />
       <workItem from="1611077910969" duration="6986000" />
-      <workItem from="1611163632115" duration="12554000" />
+      <workItem from="1611163632115" duration="14235000" />
+      <workItem from="1619350026084" duration="14793000" />
+      <workItem from="1619623370430" duration="2498000" />
+      <workItem from="1619625888332" duration="1027000" />
+      <workItem from="1619666815437" duration="421000" />
+      <workItem from="1619667697816" duration="408000" />
     </task>
     <servers />
   </component>
